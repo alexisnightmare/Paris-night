@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>Formulaire GET</title>
+		<meta charset="UTF-8">
+	
+	</head>
+	
+	<body>
+		<h1>Cours Formulaire</h1>
+		<form>
+			<p> Nom : <input type="text" name="nom" /> </p>
+	</body>
